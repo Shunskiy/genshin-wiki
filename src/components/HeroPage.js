@@ -7,7 +7,7 @@ import Heroes from '../json/heroes.json'
 function HeroPage(props) {
 
     return (
-        <main>
+        <main className="main-content">
             {Heroes.map((postDetail, index) => {
                 if (postDetail.key === props.match.params.name) {
                     return(
