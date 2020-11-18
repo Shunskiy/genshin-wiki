@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Персонажи",
+    "img": "./img/main/heroes.jpg",
+    "key": "/heroes"
+  },
+  {
+    "name": "Артефакты",
+    "img": "./img/main/art.png",
+    "key": "/items"
+  },
+  {
+    "name": "Оружие",
+    "img": "./img/main/weapons.png",
+    "key": "/weapons"
+  },
+  {
+    "name": "Реакции",
+    "img": "./img/main/elreact.jpg",
+    "key": "/reaction"
+  },
+  {
+    "name": "Информация",
+    "img": "./img/main/info.jpg",
+    "key": "/info"
+  }
+]

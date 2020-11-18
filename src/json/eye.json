@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "eye": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png",
+    "name": "Гидро"
+  },
+  {
+    "id": 2,
+    "eye": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+    "name": "Пиро"
+  },
+  {
+    "id": 3,
+    "eye": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+    "name": "Электро"
+  },
+  {
+    "id": 4,
+    "eye": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+    "name":"Анемо"
+  },
+  {
+    "id": 5,
+    "eye": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+    "name":"Крио"
+  },
+  {
+    "id": 6,
+    "eye": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png",
+    "name": "Гео"
+  }
+]

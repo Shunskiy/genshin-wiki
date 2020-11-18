@@ -1,0 +1,227 @@
+[
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Barbara.png",
+    "name": "Барбара",
+    "eye": "Гидро",
+    "weapon": "catalyst",
+    "weaponText": "Катализатор",
+    "key": "barbara",
+    "path": "/heroes/barbara"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Bennett.png",
+    "name": "Беннет",
+    "eye": "Пиро",
+    "weapon": "sword",
+    "weaponText": "Меч",
+    "key": "bennet",
+    "path": "/heroes/bennet"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Beidou.png",
+    "name": "Бей Доу",
+    "eye": "Электро",
+    "weapon": "thsword",
+    "weaponText": "Двуручный меч",
+    "key": "beidou",
+    "path": "/heroes/beidou"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Venti.png",
+    "name": "Венти",
+    "eye": "Анемо",
+    "weapon": "bow",
+    "weaponText": "Лук",
+    "key": "venti",
+    "path": "/heroes/venti"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Jean.png",
+    "name": "Джинн",
+    "eye": "Анемо",
+    "weapon": "sword",
+    "weaponText": "Меч",
+    "key": "jean",
+    "path": "/heroes/jean"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Diluc.png",
+    "name": "Дилюк",
+    "eye": "Пиро",
+    "weapon": "thsword",
+    "weaponText": "Двуручный меч",
+    "key": "diluc",
+    "path": "/heroes/diluc"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Diona.png",
+    "name": "Диона",
+    "eye": "Крио",
+    "weapon": "bow",
+    "weaponText": "Лук",
+    "key": "diona",
+    "path": "/heroes/diona"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Klee.png",
+    "name": "Кли",
+    "eye": "Пиро",
+    "weapon": "catalyst",
+    "weaponText": "Катализатор",
+    "key": "klee",
+    "path": "/heroes/klee"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Keqing.png",
+    "name": "Кэ Цин",
+    "eye": "Электро",
+    "weapon": "sword",
+    "weaponText": "Меч",
+    "key": "keqing",
+    "path": "/heroes/keqing"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Kaeya.png",
+    "name": "Кэйа",
+    "eye": "Крио",
+    "weapon": "sword",
+    "weaponText": "Меч",
+    "key": "kaeya",
+    "path": "/heroes/kaeya"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Lisa.png",
+    "name": "Лиза",
+    "eye": "Электро",
+    "weapon": "catalyst",
+    "weaponText": "Катализатор",
+    "key": "lisa",
+    "path": "/heroes/lisa"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Mona.png",
+    "name": "Мона",
+    "eye": "Гидро",
+    "weapon": "catalyst",
+    "weaponText": "Катализатор",
+    "key": "mona",
+    "path": "/heroes/mona"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Ningguang.png",
+    "name": "Нин Гуан",
+    "eye": "Гео",
+    "weapon": "catalyst",
+    "weaponText": "Катализатор",
+    "key": "ningguang",
+    "path": "/heroes/ningguang"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Noelle.png",
+    "name": "Ноэлль",
+    "eye": "Гео",
+    "weapon": "thsword",
+    "weaponText": "Двуручный меч",
+    "key": "noelle",
+    "path": "/heroes/noelle"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Traveler (Anemo).png",
+    "name": "Путешественник(А)",
+    "eye": "Анемо",
+    "weapon": "sword",
+    "weaponText": "Меч",
+    "key": "traveler",
+    "path": "/heroes/traveler"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Traveler (Anemo).png",
+    "name": "Путешественник(Г)",
+    "eye": "Гео",
+    "weapon": "sword",
+    "weaponText": "Меч",
+    "key": "traveler",
+    "path": "/heroes/traveler"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Razor.png",
+    "name": "Рэйзор",
+    "eye": "Электро",
+    "weapon": "thsword",
+    "weaponText": "Двуручный меч",
+    "key": "razor",
+    "path": "/heroes/razor"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Sucrose.png",
+    "name": "Сахароза",
+    "eye": "Анемо",
+    "weapon": "catalyst",
+    "weaponText": "Катализатор",
+    "key": "sucrose",
+    "path": "/heroes/sucrose"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Xingqiu.png",
+    "name": "Син Цю",
+    "eye": "Гидро",
+    "weapon": "sword",
+    "weaponText": "Меч",
+    "key": "xingqiu",
+    "path": "/heroes/xingqiu"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Xiangling.png",
+    "name": "Сян Лин",
+    "eye": "Пиро",
+    "weapon": "spear",
+    "weaponText": "Копьё",
+    "key": "xiangling",
+    "path": "/heroes/xiangling"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Tartaglia.png",
+    "name": "Тарталья",
+    "eye": "Гидро",
+    "weapon": "bow",
+    "weaponText": "Лук",
+    "key": "tartaglia",
+    "path": "/heroes/tartaglia"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Fischl.png",
+    "name": "Фишль",
+    "eye": "Электро",
+    "weapon": "bow",
+    "weaponText": "Лук",
+    "key": "fischl",
+    "path": "/heroes/fischl"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Qiqi.png",
+    "name": "Ци Ци",
+    "eye": "Крио",
+    "weapon": "sword",
+    "weaponText": "Меч",
+    "key": "qiqi",
+    "path": "/heroes/qiqi"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Chongyun.png",
+    "name": "Чжун Юнь",
+    "eye": "Крио",
+    "weapon": "thsword",
+    "weaponText": "Двуручный меч",
+    "key": "chongyun",
+    "path": "/heroes/chongyun"
+  },
+  {
+    "img": "https://rerollcdn.com/GENSHIN/Characters/Amber.png",
+    "name": "Эмбер",
+    "eye": "Пиро",
+    "weapon": "bow",
+    "weaponText": "Лук",
+    "key": "amber",
+    "path": "/heroes/amber"
+  }
+]
