@@ -3,13 +3,11 @@ import Heroes from "../json/heroes.json";
 import Blocks from "./blocks/Blocks";
 
 function HeroPage(props) {
-  console.log(props)
   function findId(id) {
     return id.key === props.match.params.name;
   }
   const id = Heroes.find(findId).id;
   const hero = Heroes[id - 1];
-  console.log(hero);
   return (
     <main className="main-hero-discription">
       <div className="main-hero-portfolio">
