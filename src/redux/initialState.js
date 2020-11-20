@@ -1,5 +1,5 @@
 const initialState = {
-    eye: ""
-}
+  eye: "",
+};
 
-export default initialState
+export default initialState;
