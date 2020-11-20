@@ -1,10 +1,12 @@
 import { Route } from "react-router-dom";
-import "./App.css";
-import Header from "./components/Header";
-import Content from "./components/Content";
-import HeroesMenu from "./components/HeroesMenu";
-import HeroPage from "./components/HeroPage";
-import HeroCategories from "./components/HeroCategories";
+import "./css/App.css";
+import {
+  Header,
+  Content,
+  HeroesMenu,
+  HeroPage,
+  HeroCategories,
+} from "./components/index.js";
 
 function App() {
   return (
