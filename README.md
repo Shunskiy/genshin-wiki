@@ -1,2 +1,3 @@
 # genshin-wiki
-# https://genshin-git-main.shunskiy.vercel.app/
+# genshin-mu.vercel.app
+
