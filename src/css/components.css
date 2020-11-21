@@ -43,13 +43,26 @@ header {
   margin: 0 -20%;
 }
 
+.catergories {
+  width: 5%;
+  height: 5%;
+  background-color: white;
+}
+
 .eye {
   height: 35px;
   width: 35px;
 }
 
+.eye:hover {
+  animation-name: pulse;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
 .eye-active {
-  background-color: #262626;
+  outline: auto;
+  background-color: solid white;
   height: 35px;
   width: 35px;
 }
@@ -182,4 +195,19 @@ header {
 
 .hero-weapon {
   margin-top: 15px;
+}
+
+@keyframes pulse {
+  0% {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+  50% {
+    -webkit-transform: scale3d(1.05, 1.05, 1.05);
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+  100% {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
 }
